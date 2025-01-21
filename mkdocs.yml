@@ -1,0 +1,7 @@
+site_name: 'techdoc-sample'
+
+nav:
+  - HomeDir: index.md
+
+plugins:
+  - techdocs-core
